@@ -1,5 +1,7 @@
 # dl_structured_data_hands_on
-simplified repo for hands-on exercises related to Manning book **Deep Learning with Structured Data** https://www.manning.com/books/deep-learning-with-structured-data
+simplified repo for hands-on exercises related to Manning book [**Deep Learning with Structured Data**](https://www.manning.com/books/deep-learning-with-structured-data)
+
+This is the code to accompany the [aigeeks](https://www.youtube.com/watch?v=86EIoRlQgOE&list=PL5LkMeNlpwr_7JemkHQOcIGbfKSjn_Ngv&index=5&t=19s) session June 17, 2020 and the [Manning Twitch](https://www.twitch.tv/manningpublications) session Sept 1, 2020.
 
 ## Note
 This repo is a subset of the full-blown repo for the book at https://github.com/ryanmark1867/deep_learning_for_structured_data
